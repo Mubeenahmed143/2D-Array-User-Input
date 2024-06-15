@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asp\\Desktop\\C_sharp-classes-main\\c# class\\c# class.csproj": {}
+    "C:\\Users\\asp\\Desktop\\Assignment Multidimensional Array with userinput\\c# class\\c# class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asp\\Desktop\\C_sharp-classes-main\\c# class\\c# class.csproj": {
+    "C:\\Users\\asp\\Desktop\\Assignment Multidimensional Array with userinput\\c# class\\c# class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asp\\Desktop\\C_sharp-classes-main\\c# class\\c# class.csproj",
+        "projectUniqueName": "C:\\Users\\asp\\Desktop\\Assignment Multidimensional Array with userinput\\c# class\\c# class.csproj",
         "projectName": "c# class",
-        "projectPath": "C:\\Users\\asp\\Desktop\\C_sharp-classes-main\\c# class\\c# class.csproj",
+        "projectPath": "C:\\Users\\asp\\Desktop\\Assignment Multidimensional Array with userinput\\c# class\\c# class.csproj",
         "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asp\\Desktop\\C_sharp-classes-main\\c# class\\obj\\",
+        "outputPath": "C:\\Users\\asp\\Desktop\\Assignment Multidimensional Array with userinput\\c# class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
